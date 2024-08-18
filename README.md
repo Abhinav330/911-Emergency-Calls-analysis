@@ -1,4 +1,7 @@
 # Exploratory Data Analysis on 911 Dataset
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0d1208b6f864113877f4f7d2394f584)](https://app.codacy.com/gh/Abhinav330/911-Emergency-Calls-analysis?utm_source=github.com&utm_medium=referral&utm_content=Abhinav330/911-Emergency-Calls-analysis&utm_campaign=Badge_Grade)
+
 Source : https://www.kaggle.com/datasets/mchirico/montcoalert?select=911.csv
 
 # Code Summary
