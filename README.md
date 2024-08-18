@@ -1,4 +1,9 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4b4a1db8e2ed4b5bb4e7dbd94f3237f3)](https://app.codacy.com/gh/Abhinav330/911-Emergency-Calls-analysis/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/911-Emergency-Calls-analysis/matplotlib)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/911-Emergency-Calls-analysis/numpy)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/911-Emergency-Calls-analysis/pandas)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/911-Emergency-Calls-analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/911-Emergency-Calls-analysis)
 
 # Exploratory Data Analysis on 911 Dataset
 Source : https://www.kaggle.com/datasets/mchirico/montcoalert?select=911.csv
