@@ -43,3 +43,9 @@ The script maps call types to numeric values by defining a function and applying
 ## Correlation Analysis
 
 The script calculates and visualizes the correlation between numeric columns in the dataset using a heatmap. This helps identify potential relationships between variables.
+
+## Refrerences:
+- Corral-De-Witt, D., Carrera, E., Muñoz-Romero, S. and Rojo-Álvarez, J. (2018). Statistical, Spatial and Temporal Mapping of 911 Emergencies in Ecuador. Applied Sciences, 8(2), p.199. doi:https://doi.org/10.3390/app8020199.
+- Google Books. (2019). Advances in Emerging Trends and Technologies. [online] Available at: https://books.google.co.uk/books?hl=en&lr=&id=wdW1DwAAQBAJ&oi=fnd&pg=PA136&dq=911+emergency+dataset+analysis&ots=6lIcetO2I0&sig=zMa-eG9iBPggmz8CmT-nRomcRxA&redir_esc=y#v=onepage&q=911%20emergency%20dataset%20analysis&f=false [Accessed 18 Aug. 2024].
+
+‌
