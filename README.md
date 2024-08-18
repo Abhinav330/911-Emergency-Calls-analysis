@@ -2,6 +2,7 @@
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/911-Emergency-Calls-analysis/matplotlib)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/911-Emergency-Calls-analysis/numpy)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/911-Emergency-Calls-analysis/pandas)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/911-Emergency-Calls-analysis/seaborn)
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/911-Emergency-Calls-analysis)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/911-Emergency-Calls-analysis)
 
